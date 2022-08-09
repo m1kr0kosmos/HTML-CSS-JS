@@ -72,10 +72,6 @@
   </div>
      
       <p>
-        <a href="https://m1kr0kosmos.github.io/Map/" class="btn btn-primary mb1 bg-purple">  Map Navigation </a>
-        <a href="https://m1kr0kosmos.github.io/eyeMovement/" class="btn btn-primary mb1 bg-purple">  Eye Movement </a>
-        <a href="https://m1kr0kosmos.github.io/TowerOfHanoi/" class="btn btn-primary mb1 bg-purple">  Tower of Hanoi </a>
-        <a href="https://m1kr0kosmos.github.io/PacMan-Terrarium/" class="btn btn-primary mb1 bg-purple">  PacMan Terrarium </a>
         <a href="https://github.com/m1kr0kosmos" class="btn btn-primary mb1 bg-purple">GitHub</a>
         <a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="btn btn-primary mb1 bg-purple">  YouTube</a>
         <a href="https://www.instagram.com/boos_cl0.os/" class="btn btn-primary mb1 bg-purple">Instagram</a>
@@ -84,13 +80,8 @@
         <a href = "mailto: liamengineer01@protonmail.com" class="btn btn-primary mb1 bg-purple">EMAIL</a>
       </p>
         <h1>whoami</h1>
-      <p class="lead text-muted">Hello! I am known by literally a few people as m1kr0kosmos on YouTube. I <3 programming. Enjoyed distro-hopping throgh Linux, but now use FreeBSD. I am working on a toy SLAM (Simultaneous Localization and Mapping) implementation. I am studying MMIX A RISC Computer for the New Millennium. THREE.js has been a fun new adventure, as well as beta-testing Jurassic 1 from AI21. I want to take the Open Box project further, and would like to use THREE.js to make a 3D Pacman game. I want to learn R and Swift, after I better grasp C, C++, C#, Binary, Assembly Python, JavaScript, HTML, and CSS ... Above are links to MIT course projects, as well as my Social Media! Please reach out there, or just email me. Below are links to projects and the next page of this site.</p>
+      <p class="lead text-muted">Hello! I am known by literally a few people as m1kr0kosmos on YouTube. I <3 programming. Enjoyed distro-hopping throgh Linux, but now use FreeBSD. I am working on a toy SLAM (Simultaneous Localization and Mapping) implementation. I am studying MMIX A RISC Computer for the New Millennium. </p>
       <p>
-        <h1>Introduction</h1>
-      <p class="lead text-muted">A bit about me and my machines </p>
-      <p>
-          
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ul6otBoxrT8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
         <h1>AI21 Jurassic 1</h1>
       <p class="lead text-muted"> Beta-Testing AI21 Jurassic 1 </p>
@@ -114,14 +105,7 @@
       
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F79bFRoAGpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
-<h1>./homeWork</h1>
-      <p class="lead text-muted"> Link to next list of projects </p>
-      <p>
-          
-<iframe width="560" height="315" src="https://m1kr0kosmos.github.io/homeWork/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-           <a href = "https://m1kr0kosmos.github.io/homeWork/" class="btn btn-primary mb1 bg-purple">./homeWork</a>
-      </p>          
-      
+
   <div class="navbar navbar-dark bg-dark shadow-sm">
     <div class="container d-flex justify-content-between">
       <a href="#" class="navbar-brand d-flex align-items-center">
@@ -139,43 +123,6 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
       <script>window.jQuery || document.write('<script src="../assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 
-<html>
-<head>
-    <title>Bootstrap Carousel</title>
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
-</head>
-<body>
-<div class="container">
-<h1>Tasty Rice</h1>
-<!--The main div for carousel-->
-<div id="carousel-demo" class="carousel slide" data-ride="carousel">
-  <!-- Sliding images statring here --> 
-   <div class="carousel-inner"> 
-    <div class="item"> 
-      <img src="2d.jpeg" alt=""> 
-    </div> 
-    <div class="item"> 
-      <img src="3d.jpeg" alt=""> 
-   </div> 
-    <div class="item"> 
-      <img src="4d.jpeg" alt=""> 
-    </div>
-    <div class="item active"> 
-      <img src="6d.jpeg" alt=""> 
-       </div>  
-  </div> 
-  <!-- Next / Previous controls here -->
-  <a class="left carousel-control" href="#carousel-demo" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left"></span>
-  </a>
-  <a class="right carousel-control" href="#carousel-demo" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right"></span>
-  </a>
- 
-  </div>
- 
 
 </div>
 </body>
