@@ -126,14 +126,3 @@
 
 </div>
 </body>
-
-<html>
-  <head>
-    <title>Fast Inverse Square Root Algorithm</title>
-  </head>
-  <body>
-    <h1>Fast Inverse Square Root Algorithm in C programming Language</h1>
-    <iframe src="fastInvSqRt.pdf#toolbar=0" width="100%" height="500px">
-    </iframe>
-  </body>
-</html>
